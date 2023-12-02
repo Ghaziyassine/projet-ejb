@@ -31,7 +31,9 @@ Ce projet est une application web de gestion d'hôtels et de villes, développé
 - EJB (Enterprise JavaBeans)
 - Base de données MySQL
 - HTML, CSS, JavaScript
+
 -JPA (Java Persistence API)
+
 -WildFly 
 
 ## Captures d'écran
