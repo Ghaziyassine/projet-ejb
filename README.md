@@ -36,11 +36,26 @@ Ce projet est une application web de gestion d'hôtels et de villes, développé
 
 ## Captures d'écran
 - **Gestion des villes** :
-https://github.com/Ghaziyassine/projet-ejb/assets/114885285/3ed84ace-74d7-4bc2-b77f-bb617c533bf5
+  
+
+https://github.com/Ghaziyassine/projet-ejb/assets/114885285/b0f98a2b-9a06-4de4-a4f7-87d8ca969237
+
+
 
 - **Gestion des Hôtels** :
+  
 **Ajout d'un Hôtel** :
 
+   ![image](https://github.com/Ghaziyassine/projet-ejb/assets/114885285/0a32b36d-2f58-45d8-8267-40259dc39982)
+
+**Suppression d'un Hôtel** :
+![image](https://github.com/Ghaziyassine/projet-ejb/assets/114885285/845b4ada-6138-40e8-b161-11956b7135c7)
+
+**Modification d'un Hôtel** :
+![image](https://github.com/Ghaziyassine/projet-ejb/assets/114885285/cc40d909-b634-426d-b4ac-3e497f5a1e21)
+
+ **Filtrage des Hôtels par Ville** :
+![image](https://github.com/Ghaziyassine/projet-ejb/assets/114885285/20d83918-6919-4217-a1d5-e204dc2e3b2f)
 
 
 ## Installation
