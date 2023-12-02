@@ -1,0 +1,69 @@
+@charset "UTF-8";
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /* Updated to start from the top */
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid #000;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+form input,
+form select,
+form button {
+    margin: 10px 0;
+    padding: 5px;
+    width: 200px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid #000;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 20px; /* Add margin at the top */
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+.bndelete {
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.bnupdate {
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
